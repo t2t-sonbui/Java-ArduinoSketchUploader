@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/ArduinoUploader/BootloaderProgrammers/ArduinoBootloaderProgrammer.java=UTF-8
+encoding//src/ArduinoUploader/BootloaderProgrammers/ResetBehavior/ResetThrough1200BpsBehavior.java=UTF-8
+encoding//src/Test/SerialPortStreamImpl.java=UTF-8
+encoding//src/UsbSerialHelper/ISerialPortStream.java=UTF-8
+encoding//src/UsbSerialHelper/SerialStreamHelper.java=UTF-8
