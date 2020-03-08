@@ -1,6 +1,6 @@
 # ArduinoSketchUploader
-This is port from  [christophediericx .Net library](https://github.com/t2t-sonbui/IntelHexFormatReader/tree/java) using java code
-Java library [IntelHexFormatReader](https://github.com/t2t-sonbui/IntelHexFormatReader/tree/java) 
+This is port from  [christophediericx .Net library](https://github.com/twinearthsoftware/ArduinoSketchUploader) using java code
+Java library [IntelHexFormatReader](https://github.com/t2t-sonbui/IntelHexFormatReader/tree/java-port) 
 This repository contains a Java library  that can be used to upload a compiled sketch (.HEX) directly to an Arduino board over USB. It talks to the boards bootloader over the serial (USB) connection, much like *avrdude* does (when invoked from the Arduino IDE, or from the command line).
 
 ![ArduinoSketchUploader](https://github.com/christophediericx/ArduinoSketchUploader/blob/master/Images/ArduinoSketchUploader.png)
