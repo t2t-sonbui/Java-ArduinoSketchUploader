@@ -30,13 +30,6 @@ Check "Test" for more example.
 
 [![Arduino Hex Uploader Android App](https://play.google.com/intl/en_us/badges/images/badge_new.png)](https://play.google.com/store/apps/details?id=xyz.vidieukhien.embedded.arduinohexupload)
 ------
-## Like this
-- [Donate via Paypal](https://www.paypal.me/sonbuivn) (my paypal email is **thanhson1903** at google's mail)
-- Donate via Bitcoin: 1NKBD6b6akaqiggNr3Sv9e6SsMXUFgZ8AX
-![alt text][bitcoin]
--  Donate via ETH: 0xefF19390931F3A11DaEC5Db5A336d42148Ae84d1
-![alt text][eth]
-
-[bitcoin]: https://i.imgur.com/oD2K5uo.png "1NKBD6b6akaqiggNr3Sv9e6SsMXUFgZ8AX"
-[eth]: https://i.imgur.com/MplPLS9.png "0xefF19390931F3A11DaEC5Db5A336d42148Ae84d1"
+## Like and support the project
+<a href="https://www.buymeacoffee.com/son.bv" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 ## Thanks
